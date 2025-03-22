@@ -1,7 +1,7 @@
 # Retail_Optimization_Analysis
 
 ## TABLE OF CONTENT
-- [ADIDAS SALES OVERVIEW](#adidas-sales-overview)
+- [RETAIL PERFORMANCE OVERVIEW](#Retail-Performane-Overview)
 - [DATA SOURCE](#data-source)
 - [LANDING PAGE](#landing-page)
 - [TOOLS](#tools)
@@ -14,7 +14,7 @@
 
 
 ### RETAIL OPTIMIZATION OVERVIEW
-This interactive retail analysis dashboard provides a comprehensive view of online retail performance across different dimensions, including time, country, product and customer. The dashboard comprises of key metrics such as Total Revenue, Average price, No of customer to help business owners make data-driven decisions.
+This interactive retail analysis dashboard provides a comprehensive view of online retail performance across different dimensions, including time, country, product and customer. The dashboard comprises of key metrics such as Total Revenue, Average price, No of customer that helps business owners make data-driven decisions.
 
 ### DATA SOURCE
 The primary dataset was gotten from kaggle.
@@ -67,6 +67,11 @@ Key Performance Indicators (KPIs):
 
 ### DASHBOARD
 ![Retail Optimization Sales](https://github.com/user-attachments/assets/80cec437-a313-4067-895c-c480d5084b47)
+
+
+### OVERVIEW BACKGROUND
+![Blue png](https://github.com/user-attachments/assets/cc91069e-cbe4-41f3-8db4-a745bdc241d7)
+
 
 
 
